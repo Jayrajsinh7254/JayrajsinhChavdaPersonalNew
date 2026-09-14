@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "jayrajsinhchavda",
+    "public": ".",
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "**/.*",
+      "**/node_modules/**",
+      "README.md",
+      "LICENSE",
+      "index.txt",
+      "website-demo-image/**"
+    ]
+  }
+}
