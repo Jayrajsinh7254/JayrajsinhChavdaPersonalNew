@@ -4,12 +4,12 @@ vCard - Personal Portfolio
 
 alt = Jayrajsinh Chavda
 Jayrajsinh Chavda
-Founder, Dev Tech Services
+Frontend Developer
 
 Show Contacts
 
 Email
-devtechservicesindia@gmail.com
+chavdajayrajsinh87@gmail.com
 
 Phone
 +91 95373 70561
@@ -17,8 +17,8 @@ Phone
 Location
 Ahmedabad, Gujarat, India
 
-Company Website
-devtechservicesindia.com
+Live Portfolio
+jayrajsinh-portfolio.netlify.app
 
 # navbar
 
@@ -32,260 +32,123 @@ Contact
 
 About me
 
-I'm the founder of Dev Tech Services, a web development and digital growth agency based in Ahmedabad, India. My team and I help startups and businesses build professional websites, powerful online stores, and creative branding that turn their ideas into digital reality.
+Frontend Developer skilled in HTML, CSS, JavaScript, React.js, and Tailwind CSS, with experience building responsive, user-friendly interfaces and optimizing web performance.
 
-With a background in frontend development (React.js, JavaScript, Tailwind CSS) and hands-on experience managing client projects end-to-end, I combine technical execution with clear communication and reliable delivery — so clients get both quality work and a smooth process.
+Comfortable integrating secure, scalable solutions and collaborating within teams, having also run web development projects independently from requirements through deployment. Committed to continuous learning and strong problem-solving in fast-paced development environments.
 
+## Core Strengths
 
-## why work with me
+Responsive Design
+Designing mobile-first, pixel-perfect user interfaces that provide seamless user experiences across all devices and screen sizes.
 
-Why Work With Me
+Front-end Frameworks
+Developing modern, stateful web applications using React.js, Next.js, JavaScript (ES6+), and Tailwind CSS.
 
-Tailored Business Solutions
-Solutions tailored to fit your specific business goals, not one-size-fits-all generic templates.
+Problem Solving
+Solved 100+ coding challenges across multiple platforms, developing strong algorithmic logic and analytical problem-solving skills.
 
-Fast & Reliable Delivery
-Fast project delivery without cutting corners on code quality, security, or design responsiveness.
+Performance Optimization
+Optimizing web performance, asset loading, cross-browser rendering, and continuous deployment workflows with Netlify.
 
-Transparent Upfront Pricing
-Clear, upfront pricing with milestone-based agreements and zero hidden costs.
+## What I'm Doing
 
-Ongoing Post-Launch Support
-Ongoing support and maintenance after launch — I stay easily reachable after the project ships.
-
-
-## service
-
-Services
-
-alt = website development icon
-Website Development
-Custom, responsive websites built for speed, security, and a smooth user experience across all devices.
-
-alt = web applications icon
-Web Applications & Custom Software
-Tailored web apps and custom business tools built around your team's specific workflow.
+alt = frontend development icon
+Frontend Development (React.js)
+Building responsive, high-performance web applications using React.js, modern JavaScript, HTML5, and CSS3.
 
 alt = ui ux design icon
-UI/UX & Website Design
-Modern, user-friendly design that builds trust, strengthens brand identity, and keeps visitors engaged.
+UI/UX & Modern Styling
+Crafting accessible, user-friendly layouts styled with Tailwind CSS, Bootstrap, and smooth micro-animations.
 
-alt = e-commerce icon
-E-Commerce Websites
-Online stores designed to sell more, with secure payment integrations, order flows, and mobile-friendly layouts.
+alt = machine learning icon
+Machine Learning & Python
+Studying ML algorithms, data analysis, and integrating Python-powered machine learning models into web interfaces.
 
-alt = social media marketing icon
-WhatsApp & Social Media Marketing
-Direct, high-engagement WhatsApp campaigns and social media management to reach and convert customers.
-
-alt = maintenance support icon
-Website Maintenance & Support
-Ongoing updates, performance optimization, and technical support to keep your site running smoothly.
-
-
-## testimonials
-
-What Clients Say
-
-alt = Vanrajsinh Vaghela
-Vanrajsinh Vaghela
-From design to final launch, the process was smooth and well-managed. Highly satisfied with the overall experience.
-— Vanrajsinh Vaghela, CEO, Bullet World
-
-alt = Manyata Ashra
-Manyata Ashra
-Great communication and timely delivery. They understood our requirements clearly and executed everything professionally.
-— Manyata Ashra, Market Team, VBL
-
-alt = Bhaveshbhai Maldhari
-Bhaveshbhai Maldhari
-Their team helped us with branding and website development. The results were simple, effective, and aligned with our vision.
-— Bhaveshbhai Maldhari, Trusty, Dabhoda
-
-
-## clients
-
-Clients & Brands
-
-alt = Dabhoda
-Dabhoda
-
-alt = Bullet World
-Bullet World
-
-alt = Pepsi
-Pepsi
-
-alt = Car World
-Car World
-
-alt = Varun Beverages Limited
-Varun Beverages Limited
-
+alt = web deployment icon
+Deployment & CMS Platforms
+Full project delivery with Netlify, Git/GitHub, VS Code, and experience across WordPress, Shopify, and WIX Studio.
 
 
 # resume
 
 Resume
 
-Leadership & Experience
+Experience
 
-Founder & Lead Developer — Dev Tech Services
-2024 — Present
-• Founded and manage Dev Tech Services, delivering custom websites, e-commerce stores, and digital growth solutions for startups and businesses.
-• Oversee end-to-end client project lifecycles from requirement scoping and UI/UX design to modern React/Tailwind frontend execution and deployment.
-• Implement conversion-driven marketing campaigns including direct WhatsApp marketing and strategic digital outreach.
+Frontend Developer (Internship) — NovusCode
+Jan 2023 — Jul 2023
+• Developed and implemented responsive frontend solutions using HTML, CSS, JavaScript, and React.js, incorporating Bootstrap for streamlined development.
+• Contributed to live web development projects, applying and enhancing proficiency in modern frontend technologies and responsive design principles.
+• Gained hands-on experience in a dynamic web development environment, strengthening design implementation and project execution skills across live applications.
 
-Machine Learning - Internship — Acmegrade Pvt. Ltd.
-June 2025 — August 2025
-• Assisted in developing machine learning models for data analysis and predictive workflows.
-• Studied various ML algorithms and developed projects using Python and ML libraries.
-• Collaborated with team members to implement and integrate ML models in web applications.
-
-Web Developer (Frontend Internship) — NovusCode
-10/01/2023 — 10/07/2023
-• Developed and implemented responsive frontend solutions utilizing HTML, CSS, JavaScript, and ReactJS with Bootstrap.
-• Contributed to live client web development projects, applying responsive design principles and modern frontend architecture.
+Machine Learning Intern — Acmegrade Pvt. Ltd., Bangalore
+Jun 2025 — Aug 2025
+• Assisted in developing machine learning models for data analysis and studied various ML algorithms and their applications.
+• Built small projects using Python and ML libraries, and collaborated with the team to implement ML models within web applications.
 
 Education
 
-Aditya Silver Oak University
-2023 — 2026 (Expected)
-B Tech in Information Technology
-Pursuing Bachelor of Technology in Information Technology, focusing on software engineering, web architectures, algorithms, and scalable systems.
+B.Tech, Information Technology — Aditya Silver Oak University
+2023 — 2026 (8.04 CGPA)
+Pursuing Bachelor of Technology in Information Technology, focusing on software engineering, web architectures, algorithms, data structures, and scalable frontend systems.
 
-Aditya Silver Oak University
-2020 — 2023
-Diploma in Information Technology (8.36 CGPA)
+Diploma, Information Technology — Aditya Silver Oak University
+2020 — 2023 (8.36 CGPA)
 Graduated with distinction (8.36 CGPA), establishing strong fundamentals in computer programming, database systems, web development, and problem-solving.
 
-Certifications & Achievements
+Achievements
 
-Problem Solving & Coding Challenges
-Achievement
-Solved over 100+ coding challenges across various competitive platforms, improving analytical logic and algorithm optimization.
+100+ Coding Challenges Solved
+Solved over 100+ coding challenges across various platforms, improving logical thinking and problem-solving abilities.
 
-AI Support Internship — EY x Microsoft
-Certified Online
-Completed AI Support internship exploring modern artificial intelligence tools, machine intelligence foundations, and cloud workflows.
+Frontend Developer Internship
+Completed a 6-month Frontend Developer internship developing live web solutions with HTML, CSS, JavaScript, and React.js at NovusCode.
+
+Machine Learning Internship
+Completed a Machine Learning internship assisting with data analysis models and web integration using Python at Acmegrade Pvt. Ltd., Bangalore.
+
+AI Support Internship
+Completed an AI Support internship exploring modern artificial intelligence tools, machine intelligence foundations, and cloud workflows at EY x Microsoft (Online).
+
+Certificates
 
 DMCP Course — Mark Computer C-DAC
-Certified
-Completed comprehensive diploma covering C, C++, JAVA, and HTML programming languages.
+Comprehensive diploma course covering C, C++, Java, and HTML programming languages.
 
-Key Capabilities
+Skills
 
-Website Development & Frameworks (React.js, Next.js, Tailwind CSS)
-95%
-
-UI/UX & Responsive Design
-92%
-
-E-Commerce Websites (Shopify & WordPress)
-90%
-
-Client Project Management & Delivery
-92%
-
-WhatsApp & Digital Growth Marketing
-85%
-
-Python & Machine Learning (Data Analysis)
-75%
-
+Languages & Frameworks: HTML • CSS • JavaScript • React.js • Tailwind CSS • Bootstrap • C/C++ • Python (Basic)
+Tools & Platforms: VS Code • WordPress • Shopify • Netlify • Git/GitHub • Prompt Engineering • WIX • WIX Studio
+Core Strengths: Responsive Design • Front-end Frameworks • Problem Solving • Performance Optimization
 
 
 # portfolio
 
 Portfolio
 
-All
-Web development
-Applications
-
-Select category
-All
-Web development
-Applications
-
-alt = Visa Assist
 Visa Assist — Company Website
-Web development • Service listings, inquiry forms, dynamic content
+Web development • React, Tailwind CSS, Next.js • Deployed with Netlify
+Live: https://devvisaassist.netlify.app/
 
-alt = Dev Tech Services
-Dev Tech Services — Official Website
-Web development • Agency showcase, client reviews & lead generation
-
-alt = Personal Portfolio
 Personal Portfolio Website
-Web development • Modern UI/UX, smooth animations & contact integration
+Web development • HTML, CSS, JavaScript, React, Tailwind CSS • Deployed with Netlify
+Live: https://jayrajsinh-portfolio.netlify.app/
 
-alt = E-Commerce Storefronts
-E-Commerce & Online Storefronts
-Web development • Shopify & custom stores, secure payments & mobile UX
-
-alt = Custom Software & Web Tools
-Custom Business Web Apps & Tools
-Applications • Tailored business automation & custom workflow software
-
-alt = 100+ Coding Solutions
 100+ Algorithmic Solutions
-Applications • Problem Solving, Data Structures & Logic
+Applications • C/C++, Python, Data Structures & Logic
+GitHub: https://github.com/Jayrajsinh7254
 
-
-
-# blog
-
-Blog
-
-alt = Why Every Growing Business Needs a Custom Website in 2024
-Digital Growth
-Jan 15, 2024
-Why Every Growing Business Needs a Custom Website in 2024
-How high-speed custom web architectures build customer trust and significantly outperform generic templates.
-
-alt = Scaling E-Commerce Conversions
-E-Commerce
-Feb 20, 2024
-How WhatsApp Marketing Drives 3x More Customer Conversions
-Strategies for setting up direct, high-engagement customer acquisition and retention flows on WhatsApp.
-
-alt = From Scoping to Launch
-Agency Process
-Mar 10, 2024
-From Scoping to Launch: How We Deliver High-Impact Client Projects
-A look inside the Dev Tech Services workflow: transparent milestones, rapid execution, and zero surprises.
-
-alt = UI/UX Principles that Sell
-UI / UX
-Apr 05, 2024
-UI/UX Principles That Turn Website Visitors into Clients
-Creating clear visual hierarchies, conversion-focused contact flows, and seamless mobile responsiveness.
-
-alt = Modern Tech Stacks
-Tech Architecture
-May 12, 2024
-Why React.js & Tailwind CSS Outperform Traditional CMS
-Why modern frontend frameworks deliver unmatched speed, security, and flexibility for business websites.
-
-alt = Website Maintenance
-Maintenance
-Jun 18, 2024
-The Value of Ongoing Post-Launch Website Support
-Why continuous updates, security patches, and performance optimizations keep your revenue flowing.
-
+Machine Learning Models & Web Integration
+Applications • Python, ML Libraries, Data Analysis & Web Integration
+GitHub: https://github.com/Jayrajsinh7254
 
 
 # contact
 
 Contact
 
-Let's Work Together
-
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
+I'm currently open to frontend developer roles, engineering internships, freelance projects, and collaborations.
+Email: chavdajayrajsinh87@gmail.com
+Phone: +91 95373 70561
+WhatsApp: +91 95373 70561
+Location: Ahmedabad, Gujarat, India

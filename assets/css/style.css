@@ -921,11 +921,71 @@ main {
   border-radius: inherit;
 }
 
+.skills-categories {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 
+.skill-category-card {
+  position: relative;
+  background: var(--border-gradient-onyx);
+  padding: 20px 22px;
+  border-radius: 14px;
+  box-shadow: var(--shadow-2);
+  z-index: 1;
+}
 
+.skill-category-card::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  background: var(--bg-gradient-jet);
+  border-radius: inherit;
+  z-index: -1;
+}
 
+.skill-category-title {
+  color: var(--white-2);
+  font-size: var(--fs-5);
+  font-weight: var(--fw-500);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 
-/*-----------------------------------*\
+.skill-category-title ion-icon {
+  color: var(--orange-yellow-crayola);
+  font-size: 18px;
+}
+
+.skill-tags-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skill-tag {
+  background: var(--onyx);
+  color: var(--light-gray);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-400);
+  padding: 6px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--jet);
+  box-shadow: var(--shadow-1);
+  transition: var(--transition-1);
+}
+
+.skill-tag:hover {
+  background: var(--jet);
+  border-color: var(--orange-yellow-crayola);
+  color: var(--orange-yellow-crayola);
+  transform: translateY(-2px);
+}
+
   #PORTFOLIO
 \*-----------------------------------*/
 
